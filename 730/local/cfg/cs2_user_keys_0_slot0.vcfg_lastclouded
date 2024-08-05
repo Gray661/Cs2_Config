@@ -1,0 +1,25 @@
+"config"
+{
+	"bindings"
+	{
+		"0"		"slot12"
+		"c"		"slot7"
+		"n"		"noclip"
+		"v"		"+fd;+jp;+ak"
+		"z"		"toggleradarscale"
+		"`"		"slot6"
+		"SPACE"		"+cjump"
+		"BACKSPACE"		"refundall"
+		"CAPSLOCK"		"slot10"
+		"INS"		"exec default.cfg"
+		"DEL"		"exec practice.cfg"
+		"ALT"		"player_ping"
+		"F2"		"+dropbomb;"
+		"F5"		"toggleconsole"
+		"MOUSE3"		"slot7"
+		"MOUSE4"		"+jp;+ak"
+		"MOUSE5"		"+voicerecord"
+		"MWHEELUP"		"+jump"
+		"MWHEELDOWN"		"slot8"
+	}
+}
